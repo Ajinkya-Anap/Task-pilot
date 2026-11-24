@@ -1,10 +1,9 @@
 # TaskPilot👨‍🎓
 
 ## 👋Project Overview
-TaskPilot is a full-stack task management web application designed to help users efficiently organize, manage, and track their daily tasks. 
-The system is built using MongoDB, Express.js, React.js, Node.js and follows a clean client-server architecture.
-The main objective of TaskPilot is to provide a simple, secure, and responsive platform where users can create tasks, update their progress, and manage task status in a structured way. 
-The application focuses on usability, security, and proper backend API design.
+Employee Management System
+
+Employee Management System is a full-stack web application designed to simplify and streamline employee information management and administrative operations. The application is developed using Java, Spring Boot, React.js, and MySQL, following a client-server architecture. It provides a centralized platform to manage employee records, departments, employee details, and organizational information. The system allows administrators to add, update, delete, search, and manage employee records efficiently through a responsive user interface. It uses Spring Boot REST APIs, Spring Data JPA, and Hibernate for backend development and database operations, with Spring Security and JWT authentication for secure access and role-based authorization. The application focuses on scalability, security, maintainability, and efficient data management.
 
 ## Features💖
 - Secure Authentication & Authorization
