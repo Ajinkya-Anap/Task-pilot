@@ -21,7 +21,7 @@ Employee Management System is a full-stack web application designed to simplify 
 - Built using ReactJS and styled with TailwindCSS.
 - It provides the user interface and handles all user interactions.
 ### 🥈Backend  
-- Developed using Node.js and Express.js.
+- Developed using java and Spring boot.
 - It manages business logic, authentication, and API handling.
 ### 🥉Database 
 - The application uses MongoDB as its primary database.
